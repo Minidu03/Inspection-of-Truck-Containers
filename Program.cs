@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Customs_Department_interface
+namespace customsalternate
 {
     internal static class Program
     {
